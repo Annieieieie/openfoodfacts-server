@@ -24,7 +24,7 @@ de:Unbekannt
 bg:Неизвестно
 fr:Inconnu, inconnue, inconnus, inconnues
 hu:Ismeretlen
-nl:Overig
+nl:Overig, onbekend
 non_recyclable_and_non_biodegradable:en:maybe
 
 en:Plastic
@@ -107,6 +107,7 @@ pt:Plástico reciclado
 
 en:Mixed plastics
 fr:Plastiques mixtes
+nl:Gemengd plastiek
 
 <en:Plastic
 en:PET - Polyethylene terephthalate, Polyethylene terephthalate
@@ -630,7 +631,7 @@ de:Wiederverwertbare Metalle, Wiederverwertbares Metall, Recycelbares Metall, Re
 fr:Métaux recyclables
 hu:Újrahasznosítható fémek
 it:Metalli riciclabili
-nl:Recyclebaar metaal
+nl:Recycleerbaar metaal
 pt:Metais recicláveis
 
 # Adding iron as a synonym of steel, as most "iron" packaging is in fact steel
@@ -655,6 +656,7 @@ description:en:Steel is magnetic. If you approach a magnet, it should be attract
 en:Tin-plated steel
 de:Weißblech, Weissblech
 fr:Fer blanc
+nl:Wit ijzer
 wikidata:en:Q2556927
 
 <en:Recyclable Metals
