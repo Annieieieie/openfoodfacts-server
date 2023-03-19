@@ -121,7 +121,7 @@ es:Tarro
 fr:Bocal, bocaux
 hu:Befőttes üveg, befőttes üvegek
 it:Vasetto, Barattolo
-nl:Pot, Potten, Bokaal, Bokaalen
+nl:Pot, Potten, Bokaal, Bokalen
 pt:Jarro, jarros, jarra, jarras
 ro:Borcan
 # suggest:packaging_materials:nl: en:glass
@@ -249,7 +249,7 @@ en:Brick, brick carton, brick shaped carton, bricks, brick cartons, brick shaped
 de:Ziegel, Ziegelkarton, ziegelsteinförmiger Karton, Ziegelkartons, ziegelsteinförmige Kartons
 fr:Brique, briques
 hu:tégla, tégladoboz, tégla doboz, tégla karton, tégla alakú karton
-nl:Drankkarton, Melkpak, Drankenkartons, Drankencarton, Drankenkarton, Drinkpahk, Drinkpakken
+nl:Drankkarton, Melkpak, Drankenkartons, Drankencarton, Drankenkarton, Drinkpak, Drinkpakken
 description:en:Verpakking voor vloeibare levensmiddelen gemaakt van gelamineerd papier
 
 # <en:Brick
