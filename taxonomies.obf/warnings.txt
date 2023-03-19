@@ -10,7 +10,7 @@ el:Εκρηκτικό
 en:Explosive
 fr:Explosif
 it:Esplosivo
-nl:Ontplofbaar
+nl:Ontplofbaar, explosief
 pt:Explosivo
 ru:Взрывоопасно, Взрывчатые вещества и изделия, Взрывчатые вещества, Неустойчивые взрывчатые вещества
 fi:Räjähtävä
@@ -60,7 +60,7 @@ el:Διαβρωτικό
 en:Corrosive
 fr:Corrosif
 it:Corrosivo
-nl:Bijtend
+nl:Bijtend, corrosief
 pt:Corrosivo
 fi:Syövyttävä
 sv:Frätande
@@ -614,7 +614,7 @@ fr:Toxique par contact avec la peau.,R24
 es:Tóxico en contacto con la piel.,R24
 it:Tossico a contatto con la pelle.,R24
 pt:Tóxico em contacto com a pele.,R24
-nl:Vergiftig bij aanraking met de huid.,R24
+nl:Giftig bij aanraking met de huid.,R24
 dn:Giftig ved hudkontakt.,R24
 sv:Giftigt vid hudkontakt.,R24
 no:Giftig ved hudkontakt.,R24
@@ -658,7 +658,7 @@ fr:Toxique en cas d'ingestion.,R25
 es:Tóxico por ingestión.,R25
 it:Tossico per ingestione.,R25
 pt:Tóxico por ingestão.,R25
-nl:Vergiftig bij opname door de mond.,R25
+nl:Giftig bij opname door de mond.,R25
 dn:Giftig ved indtagelse.,R25
 sv:Giftigt vid förtäring.,R25
 no:Giftig ved svelging.,R25
@@ -681,7 +681,7 @@ el:Πολύ τοξικό
 en:Very toxic
 fr:Très toxique
 it:Molto tossico
-nl:Zeer vergiftig
+nl:Zeer giftig
 pt:Muito tóxico
 fi:Erittäin myrkyllinen
 sv:Mycket giftig
@@ -692,7 +692,7 @@ fr:Très toxique par inhalation.,R26
 es:Muy tóxico por inhalación.,R26
 it:Molto tossico per inalazione.,R26
 pt:Muito tóxico por inalação.,R26
-nl:Zeer vergiftig bij inademing.,R26
+nl:Zeer giftig bij inademing.,R26
 dn:Meget giftig ved indånding.,R26
 sv:Mycket giftigt vid inandning.,R26
 no:Meget giftig ved innånding.,R26
@@ -714,7 +714,7 @@ fr:Très toxique par inhalation et par contact avec la peau.,R26/27
 es:Muy tóxico por inhalación y en contacto con la piel.,R26/27
 it:Molto tossico per inalazione e contatto con la pelle.,R26/27
 pt:Muito tóxico por inalação e em contacto com a pele.,R26/27
-nl:Zeer vergiftig bij inademing en bij aanraking met de huid.,R26/27
+nl:Zeer giftig bij inademing en bij aanraking met de huid.,R26/27
 dn:Meget giftig ved indånding og ved hudkontakt.,R26/27
 sv:Mycket giftigt vid inandning och hudkontakt.,R26/27
 no:Meget giftig ved innånding og hudkontakt.,R26/27
@@ -736,7 +736,7 @@ fr:Très toxique par inhalation\, par contact avec la peau et par ingestion.,R26
 es:Muy tóxico por inhalación\, por ingestión y en contacto con la piel.,R26/27/28
 it:Molto tossico per inalazione\, contatto con la pelle e per ingestione.,R26/27/28
 pt:Muito tóxico por inalação\, em contacto com a pele e por ingestão.,R26/27/28
-nl:Zeer vergiftig bij inademing\, opname door de mond en aanraking met de huid.,R26/27/28
+nl:Zeer giftig bij inademing\, opname door de mond en aanraking met de huid.,R26/27/28
 dn:Meget giftig ved indånding\, ved hudkontakt og ved indtagelse.,R26/27/28
 sv:Mycket giftigt vid inandning\, hudkontakt och förtäring.,R26/27/28
 no:Meget giftig ved innånding\, hudkontakt og svelging.,R26/27/28
@@ -758,7 +758,7 @@ fr:Très toxique par inhalation et par ingestion.,R26/28
 es:Muy tóxico por inhalación y por ingestión.,R26/28
 it:Molto tossico per inalazione e per ingestione.,R26/28
 pt:Muito tóxico por inalação e ingestão.,R26/28
-nl:Zeer vergiftig bij inademing en opname door de mond.,R26/28
+nl:Zeer giftig bij inademing en opname door de mond.,R26/28
 dn:Meget giftig ved indånding og ved indtagelse.,R26/28
 sv:Mycket giftigt vid inandning och förtäring.,R26/28
 no:Meget giftig ved innånding og svelging.,R26/28
@@ -780,7 +780,7 @@ fr:Très toxique par contact avec la peau.,R27
 es:Muy tóxico en contacto con la piel.,R27
 it:Molto tossico a contatto con la pelle.,R27
 pt:Muito tóxico em contacto com a pele.,R27
-nl:Zeer vergiftig bij aanraking met de huid.,R27
+nl:Zeer giftig bij aanraking met de huid.,R27
 dn:Meget giftig ved hudkontakt.,R27
 sv:Mycket giftigt vid hudkontakt.,R27
 no:Meget giftig ved hudkontakt.,R27
@@ -956,7 +956,7 @@ fr:Très toxique par contact avec la peau et par ingestion.,R27/28
 es:Muy tóxico en contacto con la piel y por ingestión.,R27/28
 it:Molto tossico a contatto con la pelle e per ingestione.,R27/28
 pt:Muito tóxico em contacto com a pele e por ingestão.,R27/28
-nl:Zeer vergiftig bij aanraking met de huid en bij opname door de mond.,R27/28
+nl:Zeer giftig bij aanraking met de huid en bij opname door de mond.,R27/28
 dn:Meget giftig ved hudkontakt og ved indtagelse.,R27/28
 sv:Mycket giftigt vid hudkontakt och förtäring.,R27/28
 no:Meget giftig ved hudkontakt og svelging.,R27/28
@@ -978,7 +978,7 @@ fr:Très toxique en cas d'ingestion.,R28
 es:Muy tóxico por ingestión.,R28
 it:Molto tossico per ingestione.,R28
 pt:Muito tóxico por ingestão.,R28
-nl:Zeer vergiftig bij opname door de mond.,R28
+nl:Zeer giftig bij opname door de mond.,R28
 dn:Meget giftig ved indtagelse.,R28
 sv:Mycket giftigt vid förtäring.,R28
 no:Meget giftig ved svelging.,R28
@@ -1000,7 +1000,7 @@ fr:Au contact de l'eau\, dégage des gaz toxiques.,R29
 es:En contacto con agua libera gases tóxicos.,R29
 it:A contatto con l'acqua libera gas tossici.,R29
 pt:Em contacto com a água liberta gases tóxicos.,R29
-nl:Vormt vergiftig gas in contact met water.,R29
+nl:Vormt giftig gas in contact met water.,R29
 dn:Udvikler giftig gas ved kontakt med vand.,R29
 sv:Utvecklar giftig gas vid kontakt med vatten.,R29
 no:Ved kontakt med vann utvikles giftig gass.,R29
@@ -1066,7 +1066,7 @@ fr:Au contact d'un acide\, dégage un gaz toxique.,R31
 es:En contacto con ácidos libera gases tóxicos.,R31
 it:A contatto con acidi libera gas tossico.,R31
 pt:Em contacto com ácidos liberta gases tóxicos.,R31
-nl:Vormt vergiftige gassen in contact met zuren.,R31
+nl:Vormt giftige gassen in contact met zuren.,R31
 dn:Udvikler giftig gas ved kontakt med syre.,R31
 sv:Utvecklar giftig gas vid kontakt med syra.,R31
 no:Ved kontakt med syre utvikles giftig gass.,R31
@@ -1088,7 +1088,7 @@ fr:Au contact d'un acide\, dégage un gaz très toxique.,R32
 es:En contacto con ácidos libera gases muy tóxicos.,R32
 it:A contatto con acidi libera gas molto tossico.,R32
 pt:Em contacto com ácidos liberta gases muito tóxicos.,R32
-nl:Vormt zeer vergiftige gassen in contact met zuren.,R32
+nl:Vormt zeer giftige gassen in contact met zuren.,R32
 dn:Udvikler meget giftig gas ved kontakt med syre.,R32
 sv:Utvecklar mycket giftig gas vid kontakt med syra.,R32
 no:Ved kontakt med syre utvikles meget giftig gass.,R32
@@ -1365,7 +1365,7 @@ fr:Toxique: danger d'effets irréversibles très graves par inhalation.,R39/23
 es:Tóxico: peligro de efectos irreversibles muy graves por inhalación.,R39/23
 it:Tossico: pericolo di effetti irreversibili molto gravi per inalazione.,R39/23
 pt:Tóxico: perigo de efeitos irreversíveis muito graves por inalação.,R39/23
-nl:Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing.,R39/23
+nl:Giftig: gevaar voor ernstige onherstelbare effecten bij inademing.,R39/23
 dn:Giftig: fare for varig alvorlig skade på helbred ved indånding.,R39/23
 sv:Giftigt: risk för mycket allvarliga bestående hälsoskador vid inandning.,R39/23
 no:Giftig: Fare for uhelbredelig skadevirkning ved innånding.,R39/23
@@ -1387,7 +1387,7 @@ fr:Toxique: danger d'effets irréversibles très graves par inhalation et par co
 es:Tóxico: peligro de efectos irreversibles muy graves por inhalación y contacto con la piel.,R39/23/24
 it:Tossico: pericolo di effetti irreversibili molto gravi per inalazione e a contatto con la pelle.,R39/23/24
 pt:Tóxico: perigo de efeitos irreversíveis muito graves por inalação e em contacto com a pele.,R39/23/24
-nl:Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid.,R39/23/24
+nl:Giftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid.,R39/23/24
 dn:Giftig: fare for varig alvorlig skade på helbred ved indånding og hudkontakt.,R39/23/24
 sv:Giftigt: risk för mycket allvarliga bestående hälsoskador vid inandning och hudkontakt.,R39/23/24
 no:Giftig: Fare for uhelbredelig skadevirkning ved innånding og hudkontakt.,R39/23/24
@@ -1409,7 +1409,7 @@ fr:Toxique: danger d'effets irréversibles très graves par inhalation\, par con
 es:Tóxico: peligro de efectos irreversibles muy graves por inhalación\, contacto con la piel e ingestión.,R39/23/24/25
 it:Tossico: pericolo di effetti irreversibili molto gravi per inalazione\, a contatto con la pelle e per ingestione.,R39/23/24/25
 pt:Tóxico: perigo de efeitos irreversíveis muito graves por inalação\, em contacto com a pele e por ingestão.,R39/23/24/25
-nl:Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing\, aanraking met de huid en opname door de mond.,R39/23/24/25
+nl:Giftig: gevaar voor ernstige onherstelbare effecten bij inademing\, aanraking met de huid en opname door de mond.,R39/23/24/25
 dn:Giftig: fare for varig alvorlig skade på helbred ved indånding\, hudkontakt og indtagelse.,R39/23/24/25
 sv:Giftigt\, risk för mycket allvarliga bestående skador vid inandning\, vid hudkontakt och vid förtäring.,R39/23/24/25
 no:Giftig: Fare for uhelbredelig skadevirkning ved innånding\, hudkontakt og svelging.,R39/23/24/25
@@ -1431,7 +1431,7 @@ fr:Toxique: danger d'effets irréversibles très graves par inhalation et par in
 es:Tóxico: peligro de efectos irreversibles muy graves por inhalación e ingestión.,R39/23/25
 it:Tossico: pericolo di effetti irreversibili molto gravi per inalazione e ingestione.,R39/23/25
 pt:Tóxico: perigo de efeitos irreversíveis muito graves por inalação e ingestão.,R39/23/25
-nl:Vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond.,R39/23/25
+nl:Giftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond.,R39/23/25
 dn:Giftig: fare for varig alvorlig skade på helbred ved indånding og indtagelse.,R39/23/25
 sv:Giftigt: risk för mycket allvarliga bestående hälsoskador vid inandning och förtäring.,R39/23/25
 no:Giftig: Fare for uhelbredelig skadevirkning ved innånding og svelging.,R39/23/25
@@ -1453,7 +1453,7 @@ fr:Toxique: danger d'effets irréversibles très graves par contact avec la peau
 es:Tóxico: peligro de efectos irreversibles muy graves por contacto con la piel.,R39/24
 it:Tossico: pericolo di effetti irreversibili molto gravi a contatto con la pelle.,R39/24
 pt:Tóxico: perigo de efeitos irreversíveis muito graves em contacto com a pele.,R39/24
-nl:Vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid.,R39/24
+nl:Giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid.,R39/24
 dn:Giftig: fare for varig alvorlig skade på helbred ved hudkontakt.,R39/24
 sv:Giftigt: risk för mycket allvarliga bestående hälsoskador vid hudkontakt.,R39/24
 no:Giftig: Fare for uhelbredelig skadevirkning ved hudkontakt.,R39/24
@@ -1475,7 +1475,7 @@ fr:Toxique: danger d'effets irréversibles très graves par contact avec la peau
 es:Tóxico: peligro de efectos irreversibles muy graves por contacto con la piel e ingestión.,R39/24/25
 it:Tossico: pericolo di effetti irreversibili molto gravi a contatto con la pelle e per ingestione.,R39/24/25
 pt:Tóxico: perigo de efeitos irreversíveis muito graves em contacto com a pele e por ingestão.,R39/24/25
-nl:Vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond.,R39/24/25
+nl:Giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond.,R39/24/25
 dn:Giftig: fare for varig alvorlig skade på helbred ved hudkontakt og indtagelse.,R39/24/25
 sv:Giftigt: risk för mycket allvarliga bestående hälsoskador vid hudkontakt och förtäring.,R39/24/25
 no:Giftig: Fare for uhelbredelig skadevirkning ved hudkontakt og svelging.,R39/24/25
@@ -1519,7 +1519,7 @@ fr:Très toxique: danger d'effets irréversibles très graves par inhalation.,R3
 es:Muy tóxico: peligro de efectos irreversibles muy graves por inhalación.,R39/26
 it:Molto tossico: pericolo di effetti irreversibili molto gravi per inalazione.,R39/26
 pt:Muito tóxico: perigo de efeitos irreversíveis muito graves por inalação.,R39/26
-nl:Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing.,R39/26
+nl:Zeer giftig: gevaar voor ernstige onherstelbare effecten bij inademing.,R39/26
 dn:Meget giftig: fare for varig alvorlig skade på helbred ved indånding.,R39/26
 sv:Mycket giftigt: risk för mycket allvarliga bestående hälsoskador vid inandning.,R39/26
 no:Meget giftig: Fare for uhelbredelig skadevirkning ved innånding.,R39/26
@@ -1541,7 +1541,7 @@ fr:Très toxique: danger d'effets irréversibles très graves par inhalation et 
 es:Muy tóxico: peligro de efectos irreversibles muy graves por inhalación y contacto con la piel.,R39/26/27
 it:Molto tossico: pericolo di effetti irreversibili molto gravi per inalazione e a contatto con la pelle.,R39/26/27
 pt:Muito tóxico: perigo de efeitos irreversíveis muito graves por inalação e em contacto com a pele.,R39/26/27
-nl:Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid.,R39/26/27
+nl:Zeer giftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid.,R39/26/27
 dn:Meget giftig: fare for varig alvorlig skade på helbred ved indånding og hudkontakt.,R39/26/27
 sv:Mycket giftigt: risk för mycket allvarliga bestående häloskador vid inandning och hudkontakt.,R39/26/27
 no:Meget giftig: Fare for uhelbredelig skadevirkning ved innånding og hudkontakt.,R39/26/27
@@ -1563,7 +1563,7 @@ fr:Très toxique: danger d'effets irréversibles très graves par inhalation\, p
 es:Muy tóxico: peligro de efectos irreversibles muy graves por inhalación\, contacto con la piel e ingestión.,R39/26/27/28
 it:Molto tossico: pericolo di effetti irreversibili molto gravi per inalazione\, a contatto con la pelle e per ingestione.,R39/26/27/28
 pt:Muito tóxico: perigo de efeitos irreversíveis muito graves por inalação\, em contacto com a pele e por ingestão.,R39/26/27/28
-nl:Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing\, aanraking met de huid en opname door de mond.,R39/26/27/28
+nl:Zeer giftig: gevaar voor ernstige onherstelbare effecten bij inademing\, aanraking met de huid en opname door de mond.,R39/26/27/28
 dn:Meget giftig: fare for varig alvorlig skade på helbred ved indånding\, hudkontakt og indtagelse.,R39/26/27/28
 sv:Mycket giftigt: risk för mycket allvarliga bestående hälsoskador vid inandning\, hudkontakt och förtäring.,R39/26/27/28
 no:Meget giftig: Fare for uhelbredelig skadevirkning ved innånding\, hudkontakt og svelging.,R39/26/27/28
@@ -1585,7 +1585,7 @@ fr:Très toxique: danger d'effets irréversibles très graves par inhalation et 
 es:Muy tóxico: peligro de efectos irreversibles muy graves por inhalación e ingestión.,R39/26/28
 it:Molto tossico: pericolo di effetti irreversibili molto gravi per inalazione e ingestione.,R39/26/28
 pt:Muito tóxico: perigo de efeitos irreversíveis muito graves por inalação e ingestão.,R39/26/28
-nl:Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond.,R39/26/28
+nl:Zeer giftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond.,R39/26/28
 dn:Meget giftig: fare for varig alvorlig skade på helbred ved indånding og indtagelse.,R39/26/28
 sv:Mycket giftigt: risk för mycket allvarliga bestående hälsoskador vid inandning och förtäring.,R39/26/28
 no:Meget giftig: Fare for uhelbredelig skadevirkning ved innånding og svelging.,R39/26/28
@@ -1607,7 +1607,7 @@ fr:Très toxique: danger d'effets irréversibles très graves par contact avec l
 es:Muy tóxico: peligro de efectos irreversibles muy graves por contacto con la piel.,R39/27
 it:Molto tossico: pericolo di effetti irreversibili molto gravi a contatto con la pelle.,R39/27
 pt:Muito tóxico: perigo de efeitos irreversíveis muito graves em contacto com a pele.,R39/27
-nl:Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid.,R39/27
+nl:Zeer giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid.,R39/27
 dn:Meget giftig: fare for varig alvorlig skade på helbred ved hudkontakt.,R39/27
 sv:Mycket giftigt: risk för mycket allvarliga bestående hälsoskador vid hudkontakt.,R39/27
 no:Meget giftig: Fare for uhelbredelig skadevirkning ved hudkontakt.,R39/27
@@ -1629,7 +1629,7 @@ fr:Très toxique: danger d'effets irréversibles très graves par contact avec l
 es:Muy tóxico: peligro de efectos irreversibles muy graves por contacto con la piel e ingestión.,R39/27/28
 it:Molto tossico: pericolo di effetti irreversibili molto gravi a contatto con la pelle e per ingestione.,R39/27/28
 pt:Muito tóxico: perigo de efeitos irreversíveis muito graves em contacto com a pele e por ingestão.,R39/27/28
-nl:Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond.,R39/27/28
+nl:Zeer giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond.,R39/27/28
 dn:Meget giftig: fare for varig alvorlig skade på helbred ved hudkontakt og indtagelse.,R39/27/28
 sv:Mycket giftigt: risk för mycket allvarliga bestående hälsoskador vid hudkontakt och förtäring.,R39/27/28
 no:Meget giftig: Fare for uhelbredelig skadevirkning ved hudkontakt og svelging.,R39/27/28
@@ -1651,7 +1651,7 @@ fr:Très toxique: danger d'effets irréversibles très graves par ingestion.,R39
 es:Muy tóxico: peligro de efectos irreversibles muy graves por ingestión.,R39/28
 it:Molto tossico: pericolo di effetti irreversibili molto gravi per ingestione.,R39/28
 pt:Muito tóxico: perigo de efeitos irreversíveis muito graves por ingestão.,R39/28
-nl:Zeer vergiftig: gevaar voor ernstige onherstelbare effecten bij opname door de mond.,R39/28
+nl:Zeer giftig: gevaar voor ernstige onherstelbare effecten bij opname door de mond.,R39/28
 dn:Meget giftig: fare for varig alvorlig skade på helbred ved indtagelse.,R39/28
 sv:Mycket giftigt: risk för mycket allvarliga bestående hälsoskador vid förtäring.,R39/28
 no:Meget giftig: Fare for uhelbredelig skadevirkning ved svelging.,R39/28
@@ -1673,7 +1673,7 @@ fr:Forme des composés métalliques explosifs très sensibles.,R4
 es:Forma compuestos metálicos explosivos muy sensibles.,R4
 it:Forma composti metallici esplosivi molto sensibili.,R4
 pt:Forma compostos metálicos explosivos muito sensíveis.,R4
-nl:Vormt met metalen zeer gemakkelijk ontplofbare verbindingen.,R4
+nl:Vormt met metalen zeer gemakkelijke ontplofbare verbindingen.,R4
 dn:Danner meget følsomme eksplosive metalforbindelser.,R4
 sv:Bildar mycket känsliga explosiva metallföreningar.,R4
 no:Danner meget følsomme eksplosjonsfarlige metallforbindelser.,R4
