@@ -31,6 +31,7 @@ nl:Kindertandpasta
 <en:Toothpastes
 en:Whitening toothpastes
 fr:Dentifrices blancheur, Dentifrice blancheur
+nl:Whiteningtandpasta's
 
 <en:Toothpastes
 en:Tartar control toothpastes
@@ -59,6 +60,7 @@ wikidata:en:Q908677
 <en:Soaps
 en:Dermatological soaps, Dermatological soap
 fr:Savons dermatologiques, savon dermatologiques, savons dermatologique
+nl:Dermatologische zepen, dermatologische zeep
 
 <en:Soaps
 en:Liquid soaps
@@ -81,10 +83,12 @@ nl:Douches en baden
 <en:Showers and baths
 en:Bubble baths, foaming baths
 fr:Bains moussants, Bain moussant, Bains moussant
+nl:Bubbelbaden
 
 <en:Showers and baths
 en:Bath salts
 fr:Sels de bain
+nl:Badzout
 wikidata:en:Q798972
 
 <en:Showers and baths
@@ -99,6 +103,7 @@ fr:Crèmes douche, Douche crème
 
 <en:Showers and baths
 fr:Huiles douche
+nl:Douche-olie
 
 #### Hygiène intime
 
@@ -244,9 +249,11 @@ fr:Crèmes hydratantes, Crème hydratante
 <en:Body
 en:Body oils
 fr:Huiles pour le corps, huiles corporelles, Huile pour le corps, Huile corporelle
+nl:Lichaamsolie
 
 <en:Body oils
 fr:Huile de massage
+nl:Massage-olie
 
 <fr:Huile de massage
 fr:Huile de massage comestible
@@ -308,6 +315,7 @@ nl:Nachtcrèmes
 <en:Facial creams
 en:Day and night creams
 fr:Crèmes jour et nuit, Crèmes jour et nuit, Soin jour et nuit
+nl:Dag en nachtcrèmes
 
 <en:Facial creams
 en:Anti-aging face care products
@@ -460,6 +468,7 @@ fr:Shampoings anti-pelliculaires, Shampoings antipelliculaires, Shampooings anti
 <en:Shampoos
 en:Shampoos for children
 fr:Shampoings pour enfants, Shampooings pour enfants
+nl:Shampoos voor kinderen
 
 <en:Shampoos
 en:Shampoos for babies
@@ -552,6 +561,7 @@ nl:Oogmake-up
 <en:Eyes makeup
 en:Mascara
 fr:Mascara
+nl:Mascara
 wikidata:en:Q324120
 
 <en:Eyes makeup
@@ -693,15 +703,18 @@ fr:Stickers à lèvres, Sticker à lèvres
 
 en:Suncare, Sun Care
 fr:Solaire
+nl:Zonnecrème
 
 <en:Suncare
 en:In-sun protections
 fr:Protections solaires
+nl:Zonbescherming
 
 <en:In-sun protections
 en:Sunscreen, Sunblock
 fr:Crèmes solaire, crème solaire
 de:Sonnencremes
+nl:Zonnecrèmes
 wikidata:en:Q827658
 
 <en:Suncare
@@ -780,17 +793,20 @@ wikidata:en:Q2916237
 en:Condoms
 fr:Préservatifs
 en:Condoms
+nl:Condooms
 
 <fr:Préservatifs
 en:Male condoms
 fr:Préservatifs masculins
 en:Male condoms
+nl:Mannelijke condooms
 wikidata:en:Q14076
 
 <fr:Préservatifs
 en:Female condoms
 fr:Préservatifs féminins
 en:Female condoms
+nl:Vrouwelijke condooms
 wikidata:en:Q864088
 
 <en:Accessories
@@ -798,6 +814,7 @@ en:Lubricating gels, lubricants
 fr:Gels lubrifiants, lubrifiants
 de:Gleitgele, Schmiermittel
 es:Geles lubricantes, lubricantes
+nl:Glijmiddel
 
 <en:Accessories
 en:Massage candle
@@ -808,3 +825,4 @@ es:Vela de masaje
 <en:Moist wipes
 en:Baby wipes
 fr:Lingettes pour bébé, Lingettes bébé, Lingettes bébés, Lingette bébés, Lingette bébés
+nl:Babydoekjes
