@@ -39,12 +39,14 @@ fr:EcoScore - Calculé
 de:EcoScore - Berechnet
 es:EcoScore - Calculado
 it:EcoScore - Calcolato
+nl:EcoScore - Berekend
 
 en:EcoScore - Changed
 fr:EcoScore - Modifié
 de:EcoScore - Geändert
 es:EcoScore - Cambiado
 it:EcoScore - Modificato
+nl:EcoScore - Aangepast
 
 en:EcoScore - Grade changed
 fr:EcoScore - Grade modifié
@@ -57,12 +59,14 @@ fr:NutriScore - Calculé
 de:NutriScore - Berechnet
 es:NutriScore - Calculado
 it:NutriScore - Calcolato
+nl:NutriScore - Berekend
 
 en:NutriScore - Not Computed
 fr:NutriScore - Non calculé
 de:NutriScore - Nicht berechnet
 es:NutriScore - No calculado
 it:NutriScore - Non calcolato
+nl:NutriScore - Niet berekend
 
 en:Nutrition - Not enough data to compute nutrition score
 fr:Nutrition - Données insuffisantes pour calculer le score nutritionnel
